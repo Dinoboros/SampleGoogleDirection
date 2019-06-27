@@ -2,8 +2,8 @@ package com.example.samplegoogledirection
 
 object URLManager {
 
-    public val url = "https://maps.googleapis.com/maps/api/"
-    public val apiKey = "AIzaSyCXWLtt5fvE9LalSJg49H0HVLDMMy-KO5c"
+    public val url = "voir discord"
+    public val apiKey = "voir discord"
 
     fun getBaseURL(): String {
         return url
